@@ -1,0 +1,6 @@
+{
+  "name": "Android 16 & NDK Ninja Studio",
+  "description": "Comprehensive developer suite for Android 16 (Baklava) setup, device matrix, emulator configuration, and Android NDK Ninja custom build script generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
